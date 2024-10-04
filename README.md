@@ -1,5 +1,5 @@
-# OLD
-pkg update
+# Comand
+pkg update 
 pkg upgrade
 pkg install git
 pjg install python
